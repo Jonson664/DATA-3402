@@ -18,6 +18,7 @@ Input: train.csv with image and species name and individual ids Output: submissi
 Size: 62.06 GB 
 
 Preprocessing
+
 After creating the data frames, all species names were changed to either include whale or dolphin
 Dataframe for images and species only was created as well
 
@@ -41,6 +42,7 @@ Training took okay, hardware and space was a factor causing even small number of
 Loss vs epoch training and testing curve
 
 Accuracy vs epoch training and testing curve
+
 Major difficulty was downloading all the training images, they were twice as big as the testing images and my hardware could not handle that load so only about 60 images were used. This clearly caused the validity of this model to suffer since it had less to work with.
 
 
