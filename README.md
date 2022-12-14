@@ -17,10 +17,13 @@ Input: train.csv with image and species name and individual ids Output: submissi
 
 Size: 62.06 GB 
 
-# Preprocessing
+Preprocessing
 After creating the data frames, all species names were changed to either include whale or dolphin
 Dataframe for images and species only was created as well
+
 Data Visualization
+
+![](Screen Shot 2022-12-14 at 1.56.15 AM)
 
 Histogram of number of identified fins grouped by species
 
