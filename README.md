@@ -17,7 +17,7 @@ Input: train.csv with image and species name and individual ids Output: submissi
 
 Size: 62.06 GB 
 
-Preprocessing
+Preprocessing:
 
 After creating the data frames, all species names were changed to either include whale or dolphin
 Dataframe for images and species only was created as well
