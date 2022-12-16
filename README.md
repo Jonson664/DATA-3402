@@ -7,9 +7,9 @@
 
 
 # Data
-Data:
+*Data:
 
-Input: train_images jpegs
+**Input: train_images jpegs
 
 Input: test_images jpegs
 
