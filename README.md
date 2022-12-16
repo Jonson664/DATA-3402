@@ -23,11 +23,14 @@
   * Dataframe for images and species only was created as well
 
 * Data Visualization
-
-
+     
   * Histogram of number of identified fins grouped by species
+    ![](https://user-images.githubusercontent.com/98846455/208201357-f88f5dcb-c126-4f59-b6d6-21e7e7c716fb.png)
+
+
 
   * Histogram of total number of identified whales and dolphins
+    ![](https://user-images.githubusercontent.com/98846455/208201507-6888fa56-0535-4d16-9ac3-3e86409fdfd6.png)
 
 
 # Problem Formulation
@@ -40,8 +43,10 @@
   * Training took okay, hardware and space was a factor causing even small number of epochs to take a while
 
   * Loss vs epoch training and testing curve
+    ![](https://user-images.githubusercontent.com/98846455/208201878-0aa294dd-ad57-40c8-a20b-1911555fe557.png)
 
   * Accuracy vs epoch training and testing curve
+    ![](https://user-images.githubusercontent.com/98846455/208201965-056c1c55-b8d9-4140-97fc-af2a9ae98f7f.png)
 
   
   * Major difficulty was downloading all the training images, they were twice as big as the testing images and my hardware could not handle that load so only about 60 images were used. This clearly caused the validity of this model to suffer since it had less to work with.
